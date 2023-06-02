@@ -1,6 +1,6 @@
 ### Olá me chamo Thaisa, tenho 20 anos, e estudo ADS na Fatec RL 💻
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theily&layout=compact&langs_count=16&theme=radical"/>      <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=Theily&show_icons=true&theme=radical"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theily&layout=compact&langs_count=16&theme=radical"/>      <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=Theily&show_icons=true&theme=radical"/>
 
 <h4>Linguagens que utilizo e estudo 📝<h4/>
   
